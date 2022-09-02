@@ -8,7 +8,7 @@
 	],
 	"directus:extension": {
 		"type": "endpoint",
-		"path": "../directusdocker/extensions/endpoints/genoffer/index.js",
+		"path": "../directus-docker/extensions/endpoints/genoffer/index.js",
 		"source": "src/index.ts",
 		"host": "^9.14.4"
 	},

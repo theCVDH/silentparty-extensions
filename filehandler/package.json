@@ -8,7 +8,7 @@
 	],
 	"directus:extension": {
 		"type": "endpoint",
-		"path": "../directusdocker/extensions/hooks/filehandler/index.js",
+		"path": "../directus-docker/extensions/hooks/filehandler/index.js",
 		"source": "src/index.ts",
 		"host": "^9.14.4"
 	},
